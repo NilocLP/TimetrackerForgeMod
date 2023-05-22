@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "timetracker",
+    "name": "Timetracker",
+    "description": "Mod to track Time of Teams",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Niloc"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
